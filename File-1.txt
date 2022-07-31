@@ -1,7 +1,7 @@
 Hello!
 qwerty
 asdf asdf
-Зачем это нужно?
+Зачем это нужно???????
 Для того чтобы создать конфликт!
 
 * commit db275c17fde345a038bd76a0847c2af8c791538a (HEAD -> master)
