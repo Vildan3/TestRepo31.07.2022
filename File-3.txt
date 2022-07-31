@@ -1,32 +1,8 @@
-PS C:\Users\snaip\Desktop\Git new> git branch
-* br2
-  master
-PS C:\Users\snaip\Desktop\Git new> git checkout master
-Switched to branch 'master'
-PS C:\Users\snaip\Desktop\Git new> git log --graph
-* commit db275c17fde345a038bd76a0847c2af8c791538a (HEAD -> master)
-| Author: Vildan <snaiper.228@bk.ru>
-| Date:   Thu Jul 28 19:12:39 2022 +0300
-|
-|     Add new File (File-2)
-|
-br2
-* commit 4f3f471b15b2cab7764829478af3b936e7306cc9
-| Author: Vildan <snaiper.228@bk.ru>
-| Date:   Thu Jul 28 19:07:29 2022 +0300
-|
-|     Change file: add new message!
-|
-* commit bb280c3b454f9e5142a24157f2d5506d9937abc4
-  Author: Vildan <snaiper.228@bk.ru>
-  Date:   Thu Jul 28 18:53:50 2022 +0300
-
-      Add new file. Name File-1 (txt)
-PS C:\Users\snaip\Desktop\Git new> git branch forHuman2
-PS C:\Users\snaip\Desktop\Git new> git branch          
-  br2
-  forHuman2
-* master
-PS C:\Users\snaip\Desktop\Git new> git checkout forHuman2
-Switched to branch 'forHuman2'
-PS C:\Users\snaip\Desktop\Git new> 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 362 bytes | 181.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:Vildan3/TestRepo31.07.2022.git
