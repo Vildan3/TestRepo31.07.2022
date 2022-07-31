@@ -1,0 +1,32 @@
+PS C:\Users\snaip\Desktop\Git new> git branch
+* br2
+  master
+PS C:\Users\snaip\Desktop\Git new> git checkout master
+Switched to branch 'master'
+PS C:\Users\snaip\Desktop\Git new> git log --graph
+* commit db275c17fde345a038bd76a0847c2af8c791538a (HEAD -> master)
+| Author: Vildan <snaiper.228@bk.ru>
+| Date:   Thu Jul 28 19:12:39 2022 +0300
+|
+|     Add new File (File-2)
+|
+br2
+* commit 4f3f471b15b2cab7764829478af3b936e7306cc9
+| Author: Vildan <snaiper.228@bk.ru>
+| Date:   Thu Jul 28 19:07:29 2022 +0300
+|
+|     Change file: add new message!
+|
+* commit bb280c3b454f9e5142a24157f2d5506d9937abc4
+  Author: Vildan <snaiper.228@bk.ru>
+  Date:   Thu Jul 28 18:53:50 2022 +0300
+
+      Add new file. Name File-1 (txt)
+PS C:\Users\snaip\Desktop\Git new> git branch forHuman2
+PS C:\Users\snaip\Desktop\Git new> git branch          
+  br2
+  forHuman2
+* master
+PS C:\Users\snaip\Desktop\Git new> git checkout forHuman2
+Switched to branch 'forHuman2'
+PS C:\Users\snaip\Desktop\Git new> 
