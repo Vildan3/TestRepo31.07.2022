@@ -1,11 +1,1 @@
-
-no changes added to commit (use "git add" and/or "git commit -a")
-PS C:\Users\snaip\Desktop\Git new> git add .\File-3.txt
-PS C:\Users\snaip\Desktop\Git new> git add .\File-1.txt
-PS C:\Users\snaip\Desktop\Git new> git status
-On branch forHuman2
-no changes added to commit (use "git add" and/or "git commit -a")
-PS C:\Users\snaip\Desktop\Git new> git add .\File-3.txt
-PS C:\Users\snaip\Desktop\Git new> git add .\File-1.txt
-PS C:\Users\snaip\Desktop\Git new> git status
-On branch forHuman2
+Hello form remote repo
